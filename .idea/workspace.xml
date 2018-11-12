@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="881e4c87-bf7c-4f30-9cdf-260072390cdf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Atividade 016 - Módulos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atividade 017 - Módulos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atividade 018 - Módulos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atividade 019 - Módulos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atividade 020 - Módulos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atividade 021 - Módulos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atividade 022 - Manipulando Texto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atividade 023 - Manipulando Texto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atividade 024 - Manipulando Texto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atividade 025 - Manipulando Texto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atividade 026 - Manipulando Texto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atividade 027 - Manipulando Texto.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,45 +20,91 @@
     <session id="-100675383">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="35" />
+          <entry key="py" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="35" />
+          <entry key="Python" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="23" />
           <entry key="dummy" value="48" />
-          <entry key="py" value="5726" />
+          <entry key="py" value="7885" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="48" />
-          <entry key="Python" value="5749" />
+          <entry key="Python" value="7908" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Atividade 021 - Módulos.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Atividade 025 - Manipulando Texto.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            <state relative-caret-position="68">
+              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Atividade 024 - Manipulando Texto.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Atividade 023 - Manipulando Texto.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Atividade 022 - Manipulando Texto.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Atividade 026 - Manipulando Texto.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Atividade 027 - Manipulando Texto.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -98,6 +144,12 @@
         <option value="$PROJECT_DIR$/Atividade 018 - Módulos.py" />
         <option value="$PROJECT_DIR$/Atividade 020 - Módulos.py" />
         <option value="$PROJECT_DIR$/Atividade 021 - Módulos.py" />
+        <option value="$PROJECT_DIR$/Atividade 023 - Manipulando Texto.py" />
+        <option value="$PROJECT_DIR$/Atividade 025 - Manipulando Texto.py" />
+        <option value="$PROJECT_DIR$/Atividade 024 - Manipulando Texto.py" />
+        <option value="$PROJECT_DIR$/Atividade 022 - Manipulando Texto.py" />
+        <option value="$PROJECT_DIR$/Atividade 026 - Manipulando Texto.py" />
+        <option value="$PROJECT_DIR$/Atividade 027 - Manipulando Texto.py" />
       </list>
     </option>
   </component>
@@ -140,8 +192,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Atividade 020 - Módulos">
-    <configuration name="Atividade 016 - Módulos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Atividade 027 - Manipulando Texto">
+    <configuration name="Atividade 023 - Manipulando Texto" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Atividades Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,7 +205,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Atividade 016 - Módulos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Atividade 023 - Manipulando Texto.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,7 +214,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Atividade 017 - Módulos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Atividade 024 - Manipulando Texto" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Atividades Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -174,7 +226,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Atividade 017 - Módulos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Atividade 024 - Manipulando Texto.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,7 +235,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Atividade 018 - Módulos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Atividade 025 - Manipulando Texto" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Atividades Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,7 +247,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Atividade 018 - Módulos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Atividade 025 - Manipulando Texto.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,7 +256,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Atividade 019 - Módulos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Atividade 026 - Manipulando Texto" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Atividades Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -216,7 +268,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Atividade 019 - Módulos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Atividade 026 - Manipulando Texto.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,7 +277,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Atividade 020 - Módulos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Atividade 027 - Manipulando Texto" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Atividades Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,7 +289,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Atividade 020 - Módulos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Atividade 027 - Manipulando Texto.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -247,19 +299,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Atividade 016 - Módulos" />
-      <item itemvalue="Python.Atividade 017 - Módulos" />
-      <item itemvalue="Python.Atividade 018 - Módulos" />
-      <item itemvalue="Python.Atividade 019 - Módulos" />
-      <item itemvalue="Python.Atividade 020 - Módulos" />
+      <item itemvalue="Python.Atividade 023 - Manipulando Texto" />
+      <item itemvalue="Python.Atividade 024 - Manipulando Texto" />
+      <item itemvalue="Python.Atividade 025 - Manipulando Texto" />
+      <item itemvalue="Python.Atividade 026 - Manipulando Texto" />
+      <item itemvalue="Python.Atividade 027 - Manipulando Texto" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Atividade 020 - Módulos" />
-        <item itemvalue="Python.Atividade 018 - Módulos" />
-        <item itemvalue="Python.Atividade 019 - Módulos" />
-        <item itemvalue="Python.Atividade 017 - Módulos" />
-        <item itemvalue="Python.Atividade 016 - Módulos" />
+        <item itemvalue="Python.Atividade 027 - Manipulando Texto" />
+        <item itemvalue="Python.Atividade 026 - Manipulando Texto" />
+        <item itemvalue="Python.Atividade 025 - Manipulando Texto" />
+        <item itemvalue="Python.Atividade 024 - Manipulando Texto" />
+        <item itemvalue="Python.Atividade 023 - Manipulando Texto" />
       </list>
     </recent_temporary>
   </component>
@@ -278,6 +330,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -435,6 +488,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividade 024 - Manipulando Texto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividade 023 - Manipulando Texto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividade 025 - Manipulando Texto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividade 022 - Manipulando Texto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividade 026 - Manipulando Texto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividade 027 - Manipulando Texto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
         </state>
       </provider>
     </entry>
