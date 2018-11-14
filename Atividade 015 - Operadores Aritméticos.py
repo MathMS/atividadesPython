@@ -7,4 +7,4 @@ pkm = 0.15*km
 pdias = 60*dias
 total = pkm+pdias
 
-print('De acordo com os dados, o total a pagar pela kilometragem é R${:.2f}, e pelos dias utilizados é R${}; somando um valor total de R${:.2f}'.format(pkm, pdias, total))
+print('De acordo com os dados, o total a pagar pela kilometragem é \033[33mR${:.2f}\033[m, e pelos dias utilizados é \033[34mR${}\033[m; somando um valor total de \033[35mR${:.2f}\033[m'.format(pkm, pdias, total))

@@ -5,4 +5,4 @@ from math import hypot
 co = float(input('Digite o tamanho do cateto oposto: '))
 ca = float(input('Digite o tamanho do cateto adjacente: '))
 h = hypot(co, ca)
-print('\nO comprimento da hipotenusa é cerca de {:.3f}'.format(h))
+print('\nO comprimento da hipotenusa é cerca de \033[34m{:.3f}\033[m'.format(h))

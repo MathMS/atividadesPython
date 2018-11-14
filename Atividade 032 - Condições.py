@@ -2,6 +2,6 @@
 
 ano = int(input('Digite um ano qualquer: '))
 if ano%4 == 0:
-    print('\nO ano é Bissexto!')
+    print('\n\033[34mO ano é Bissexto!\033[m')
 else:
-    print('\nO ano não é Bissexto!')
+    print('\n\033[35mO ano não é Bissexto!\033[m')

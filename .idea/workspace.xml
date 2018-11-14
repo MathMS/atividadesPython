@@ -2,15 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="881e4c87-bf7c-4f30-9cdf-260072390cdf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Atividade 028 - Condições.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atividade 029 - Condições.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atividade 030 - Condições.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atividade 031 - Condições.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atividade 032 - Condições.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atividade 033 - Condições.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atividade 034 - Condições.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atividade 035 - Condições.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 001 - Input.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade 001 - Input.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 002 - Input.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade 002 - Input.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 003 - Tipos Primitivos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade 003 - Tipos Primitivos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 004 - Tipos Primitivos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade 004 - Tipos Primitivos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 005 - Operadores Aritiméticos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade 005 - Operadores Aritiméticos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 006 - Operadores Aritméticos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade 006 - Operadores Aritméticos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 007 - Operadores Aritiméticos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade 007 - Operadores Aritiméticos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 008 - Operadores Aritméticos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade 008 - Operadores Aritméticos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 009 - Operadores Aritméticos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade 009 - Operadores Aritméticos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 010 - Operadores Aritméticos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade 010 - Operadores Aritméticos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 011 - Operadores Aritméticos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade 011 - Operadores Aritméticos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 012 - Operadores Aritméticos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade 012 - Operadores Aritméticos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 013 - Operadores Aritméticos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade 013 - Operadores Aritméticos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 014 - Operadores Aritméticos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade 014 - Operadores Aritméticos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 015 - Operadores Aritméticos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade 015 - Operadores Aritméticos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 016 - Módulos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade 016 - Módulos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 017 - Módulos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade 017 - Módulos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 018 - Módulos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade 018 - Módulos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 019 - Módulos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade 019 - Módulos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 020 - Módulos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade 020 - Módulos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 022 - Manipulando Texto.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade 022 - Manipulando Texto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 023 - Manipulando Texto.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade 023 - Manipulando Texto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 024 - Manipulando Texto.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade 024 - Manipulando Texto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 025 - Manipulando Texto.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade 025 - Manipulando Texto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 026 - Manipulando Texto.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade 026 - Manipulando Texto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 027 - Manipulando Texto.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade 027 - Manipulando Texto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 028 - Condições.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade 028 - Condições.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 029 - Condições.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade 029 - Condições.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 030 - Condições.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade 030 - Condições.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 031 - Condições.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade 031 - Condições.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 032 - Condições.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade 032 - Condições.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 033 - Condições.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade 033 - Condições.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 034 - Condições.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade 034 - Condições.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade 035 - Condições.py" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade 035 - Condições.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,49 +48,52 @@
     <session id="-100675383">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="2" />
-          <entry key="py" value="54" />
+          <entry key="py" value="93" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="2" />
-          <entry key="Python" value="54" />
+          <entry key="Python" value="93" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="23" />
           <entry key="dummy" value="49" />
-          <entry key="py" value="11065" />
+          <entry key="py" value="12072" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="49" />
-          <entry key="Python" value="11088" />
+          <entry key="Python" value="12095" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Atividade 035 - Condições.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+              <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -86,46 +115,52 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/aula07.py" />
+        <option value="$PROJECT_DIR$/Atividade 014 - Módulos.py" />
+        <option value="$PROJECT_DIR$/Atividade 014 - Conversor de Temperatura.py" />
+        <option value="$PROJECT_DIR$/Atividade 021 - Módulos.py" />
+        <option value="$PROJECT_DIR$/Provas.ipynb" />
+        <option value="$PROJECT_DIR$/Atividade 028 - Condicões.py" />
+        <option value="$PROJECT_DIR$/Atividade 036 - Cores no Terminal.py" />
+        <option value="$PROJECT_DIR$/a.py" />
+        <option value="$PROJECT_DIR$/Atividade 001 - Input.py" />
+        <option value="$PROJECT_DIR$/Atividade 002 - Input.py" />
+        <option value="$PROJECT_DIR$/Atividade 003 - Tipos Primitivos.py" />
+        <option value="$PROJECT_DIR$/Atividade 004 - Tipos Primitivos.py" />
+        <option value="$PROJECT_DIR$/Atividade 005 - Operadores Aritiméticos.py" />
+        <option value="$PROJECT_DIR$/Atividade 006 - Operadores Aritméticos.py" />
         <option value="$PROJECT_DIR$/Atividade 007 - Operadores Aritiméticos.py" />
         <option value="$PROJECT_DIR$/Atividade 008 - Operadores Aritméticos.py" />
-        <option value="$PROJECT_DIR$/Atividade 006 - Operadores Aritméticos.py" />
-        <option value="$PROJECT_DIR$/Atividade 005 - Operadores Aritiméticos.py" />
         <option value="$PROJECT_DIR$/Atividade 009 - Operadores Aritméticos.py" />
         <option value="$PROJECT_DIR$/Atividade 010 - Operadores Aritméticos.py" />
         <option value="$PROJECT_DIR$/Atividade 011 - Operadores Aritméticos.py" />
         <option value="$PROJECT_DIR$/Atividade 012 - Operadores Aritméticos.py" />
         <option value="$PROJECT_DIR$/Atividade 013 - Operadores Aritméticos.py" />
-        <option value="$PROJECT_DIR$/Atividade 014 - Módulos.py" />
-        <option value="$PROJECT_DIR$/Atividade 014 - Conversor de Temperatura.py" />
+        <option value="$PROJECT_DIR$/Atividade 014 - Operadores Aritméticos.py" />
         <option value="$PROJECT_DIR$/Atividade 015 - Operadores Aritméticos.py" />
-        <option value="$PROJECT_DIR$/Atividade 003 - Tipos Primitivos.py" />
         <option value="$PROJECT_DIR$/Atividade 016 - Módulos.py" />
         <option value="$PROJECT_DIR$/Atividade 017 - Módulos.py" />
-        <option value="$PROJECT_DIR$/Atividade 019 - Módulos.py" />
         <option value="$PROJECT_DIR$/Atividade 018 - Módulos.py" />
+        <option value="$PROJECT_DIR$/Atividade 019 - Módulos.py" />
         <option value="$PROJECT_DIR$/Atividade 020 - Módulos.py" />
-        <option value="$PROJECT_DIR$/Atividade 021 - Módulos.py" />
-        <option value="$PROJECT_DIR$/Atividade 023 - Manipulando Texto.py" />
-        <option value="$PROJECT_DIR$/Atividade 025 - Manipulando Texto.py" />
-        <option value="$PROJECT_DIR$/Atividade 024 - Manipulando Texto.py" />
         <option value="$PROJECT_DIR$/Atividade 022 - Manipulando Texto.py" />
+        <option value="$PROJECT_DIR$/Atividade 023 - Manipulando Texto.py" />
+        <option value="$PROJECT_DIR$/Atividade 024 - Manipulando Texto.py" />
+        <option value="$PROJECT_DIR$/Atividade 025 - Manipulando Texto.py" />
         <option value="$PROJECT_DIR$/Atividade 026 - Manipulando Texto.py" />
         <option value="$PROJECT_DIR$/Atividade 027 - Manipulando Texto.py" />
-        <option value="$PROJECT_DIR$/Provas.ipynb" />
-        <option value="$PROJECT_DIR$/Atividade 028 - Condicões.py" />
         <option value="$PROJECT_DIR$/Atividade 028 - Condições.py" />
         <option value="$PROJECT_DIR$/Atividade 029 - Condições.py" />
-        <option value="$PROJECT_DIR$/Atividade 032 - Condições.py" />
-        <option value="$PROJECT_DIR$/Atividade 031 - Condições.py" />
         <option value="$PROJECT_DIR$/Atividade 030 - Condições.py" />
-        <option value="$PROJECT_DIR$/Atividade 034 - Condições.py" />
+        <option value="$PROJECT_DIR$/Atividade 031 - Condições.py" />
+        <option value="$PROJECT_DIR$/Atividade 032 - Condições.py" />
         <option value="$PROJECT_DIR$/Atividade 033 - Condições.py" />
+        <option value="$PROJECT_DIR$/Atividade 034 - Condições.py" />
         <option value="$PROJECT_DIR$/Atividade 035 - Condições.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -149,7 +184,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/avaliacao-01.ipynb" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -163,8 +198,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Atividade 035 - Condições">
-    <configuration name="Atividade 031 - Condições" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Atividade 024 - Manipulando Texto">
+    <configuration name="Atividade 009 - Operadores Aritméticos" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Atividades Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,7 +211,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Atividade 031 - Condições.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Atividade 009 - Operadores Aritméticos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,7 +220,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Atividade 032 - Condições" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Atividade 012 - Operadores Aritméticos" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Atividades Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -197,7 +232,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Atividade 032 - Condições.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Atividade 012 - Operadores Aritméticos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,7 +241,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Atividade 033 - Condições" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Atividade 015 - Operadores Aritméticos" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Atividades Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -218,7 +253,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Atividade 033 - Condições.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Atividade 015 - Operadores Aritméticos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,7 +262,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Atividade 034 - Condições" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Atividade 018 - Módulos" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Atividades Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -239,7 +274,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Atividade 034 - Condições.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Atividade 018 - Módulos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -248,7 +283,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Atividade 035 - Condições" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Atividade 024 - Manipulando Texto" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Atividades Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -260,7 +295,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Atividade 035 - Condições.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Atividade 024 - Manipulando Texto.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,19 +305,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Atividade 031 - Condições" />
-      <item itemvalue="Python.Atividade 032 - Condições" />
-      <item itemvalue="Python.Atividade 033 - Condições" />
-      <item itemvalue="Python.Atividade 034 - Condições" />
-      <item itemvalue="Python.Atividade 035 - Condições" />
+      <item itemvalue="Python.Atividade 009 - Operadores Aritméticos" />
+      <item itemvalue="Python.Atividade 012 - Operadores Aritméticos" />
+      <item itemvalue="Python.Atividade 015 - Operadores Aritméticos" />
+      <item itemvalue="Python.Atividade 018 - Módulos" />
+      <item itemvalue="Python.Atividade 024 - Manipulando Texto" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Atividade 035 - Condições" />
-        <item itemvalue="Python.Atividade 033 - Condições" />
-        <item itemvalue="Python.Atividade 034 - Condições" />
-        <item itemvalue="Python.Atividade 032 - Condições" />
-        <item itemvalue="Python.Atividade 031 - Condições" />
+        <item itemvalue="Python.Atividade 024 - Manipulando Texto" />
+        <item itemvalue="Python.Atividade 018 - Módulos" />
+        <item itemvalue="Python.Atividade 015 - Operadores Aritméticos" />
+        <item itemvalue="Python.Atividade 012 - Operadores Aritméticos" />
+        <item itemvalue="Python.Atividade 009 - Operadores Aritméticos" />
       </list>
     </recent_temporary>
   </component>
@@ -300,15 +335,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12328767" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3259177" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3280899" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -327,47 +362,85 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/aula07.py" />
-    <entry file="file://$PROJECT_DIR$/Atividade 004 - Tipos Primitivos.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Provas.ipynb" />
+    <entry file="file://$USER_HOME$/Downloads/avaliacao-01.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Atividade 002 - Input.py">
+    <entry file="file://$PROJECT_DIR$/Atividade 036 - Cores no Terminal.py" />
+    <entry file="file://$PROJECT_DIR$/a.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Atividade 001 - Input.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atividade 008 - Operadores Aritméticos.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        <state relative-caret-position="51">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Atividade 007 - Operadores Aritiméticos.py">
+    <entry file="file://$PROJECT_DIR$/Atividade 002 - Input.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="68">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Atividade 006 - Operadores Aritméticos.py">
+    <entry file="file://$PROJECT_DIR$/Atividade 003 - Tipos Primitivos.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividade 004 - Tipos Primitivos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Atividade 005 - Operadores Aritiméticos.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="68">
+          <caret line="4" column="80" selection-start-line="4" selection-start-column="80" selection-end-line="4" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividade 006 - Operadores Aritméticos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="119" selection-start-line="6" selection-start-column="119" selection-end-line="6" selection-end-column="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividade 007 - Operadores Aritiméticos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="50" lean-forward="true" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Atividade 009 - Operadores Aritméticos.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividade 008 - Operadores Aritméticos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividade 010 - Operadores Aritméticos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="71" selection-start-line="5" selection-start-column="71" selection-end-line="5" selection-end-column="71" />
         </state>
       </provider>
     </entry>
@@ -378,80 +451,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Atividade 013 - Operadores Aritméticos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Atividade 011 - Operadores Aritméticos.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atividade 010 - Operadores Aritméticos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="119">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Atividade 014 - Operadores Aritméticos.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+          <caret line="4" column="63" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividade 013 - Operadores Aritméticos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="127" selection-start-line="5" selection-start-column="127" selection-end-line="5" selection-end-column="127" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Atividade 015 - Operadores Aritméticos.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atividade 003 - Tipos Primitivos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <caret line="9" column="185" selection-start-line="9" selection-start-column="185" selection-end-line="9" selection-end-column="185" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Atividade 016 - Módulos.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="62" lean-forward="true" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
+          <caret line="4" column="62" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Atividade 017 - Módulos.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <caret line="7" column="55" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividade 020 - Módulos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="43" lean-forward="true" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividade 019 - Módulos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Atividade 018 - Módulos.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="66" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atividade 019 - Módulos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atividade 020 - Módulos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+          <caret line="8" column="140" selection-start-line="8" selection-start-column="140" selection-end-line="8" selection-end-column="140" />
         </state>
       </provider>
     </entry>
@@ -462,115 +521,101 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Atividade 026 - Manipulando Texto.py">
+    <entry file="file://$PROJECT_DIR$/Atividade 022 - Manipulando Texto.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        <state relative-caret-position="187">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Provas.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atividade 027 - Manipulando Texto.py">
+    <entry file="file://$PROJECT_DIR$/Atividade 023 - Manipulando Texto.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/avaliacao-01.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
+        <state relative-caret-position="153">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Atividade 024 - Manipulando Texto.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Atividade 025 - Manipulando Texto.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Atividade 023 - Manipulando Texto.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atividade 022 - Manipulando Texto.py">
+    <entry file="file://$PROJECT_DIR$/Atividade 026 - Manipulando Texto.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <caret line="12" column="65" selection-start-line="12" selection-start-column="65" selection-end-line="12" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividade 027 - Manipulando Texto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Atividade 028 - Condições.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Atividade 029 - Condições.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="102">
+          <caret line="6" column="91" selection-start-line="6" selection-start-column="91" selection-end-line="6" selection-end-column="91" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Atividade 030 - Condições.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Atividade 031 - Condições.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Atividade 032 - Condições.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividade 033 - Condições.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Atividade 034 - Condições.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atividade 033 - Condições.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <caret line="11" column="93" selection-start-line="11" selection-start-column="93" selection-end-line="11" selection-end-column="93" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Atividade 035 - Condições.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
         </state>
       </provider>
     </entry>

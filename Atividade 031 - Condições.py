@@ -4,6 +4,6 @@ viagens mais longas.'''
 
 v = float(input('Qual o tamanho da viagem em Km? '))
 if v <= 200:
-    print('\nVocê gastará com passagem cerca de R${}!'.format(v*0.50))
+    print('\nVocê gastará com passagem cerca de \033[33mR${}\033[m!'.format(v*0.50))
 else:
-    print('\nVocê gastará com passagem cerca de R${}!'.format(v*0.45))
+    print('\nVocê gastará com passagem cerca de \033[33mR${}\033[m!'.format(v*0.45))

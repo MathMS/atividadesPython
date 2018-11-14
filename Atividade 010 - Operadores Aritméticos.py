@@ -3,4 +3,4 @@
 
 r = float(input('Digite quanto de dinheiro você tem na carteira: '))
 d = r/3.73
-print('\nVocê consegue comprar com R${}, cerca de {:.2f} Dólares'.format(r, d))
+print('\nVocê consegue comprar com \033[32mR${}\033[m, cerca de \033[32m{:.2f}\033[m Dólares'.format(r, d))

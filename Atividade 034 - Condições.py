@@ -6,7 +6,7 @@ s = float(input('Digite o salário do funcionário: '))
 
 if s > 1250:
     a = s*0.10
-    print('\nO seu salário teve um aumento de 10%, ficando um total de R${:.2f}'.format(s+a))
+    print('\nO seu salário teve um aumento de 10%, ficando um total de \033[32mR${:.2f}\033[m'.format(s+a))
 else:
     a = s*0.15
-    print('\nO seu salário teve um aumento de 15%, ficando um total de R${:.2f}'.format(s+a))
+    print('\nO seu salário teve um aumento de 15%, ficando um total de \033[32mR${:.2f}\033[m'.format(s+a))

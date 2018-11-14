@@ -13,5 +13,5 @@ if n2>n1 and n2>n3:
     maior = n2
 if n3>n1 and n3>n2:
     maior = n3
-print('\nO maior número é o {}'.format(maior))
-print('O menor número é o {}'.format(menor))
+print('\nO maior número é o \033[32m{}\033[m'.format(maior))
+print('O menor número é o \033[31m{}\033[m'.format(menor))

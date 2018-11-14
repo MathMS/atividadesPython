@@ -5,5 +5,5 @@ a = float(input('Digite a altura da parede: '))
 l = float(input('Agora digite sua largura: '))
 ar = a*l
 t = ar/2
-print('\nA área total da parede é de {}m², para pinta-la você precisará de {}L de tinta.'.format(ar, t))
+print('\nA área total da parede é de \033[34m{}m²\033[m, para pinta-la você precisará de \033[33m{}L\033[m de tinta.'.format(ar, t))
 
