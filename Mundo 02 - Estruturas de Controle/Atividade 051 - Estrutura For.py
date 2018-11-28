@@ -4,7 +4,7 @@ No final, mostre os 10 primeiros termos dessa progressão."""
 t = int(input("Digite o primeiro termo: "))
 r = int(input("Digite a razão da PA: "))
 soma = r + t
-print(t)
-for c in range(0,10):
-    print('{} + {} = {}'.format(t, r, soma))
+print('{} + {} = {}'.format(t, r, soma))
+for c in range(1,10):
+    print('{} + {} = {}'.format(soma, r, soma+r))
     soma = r + soma

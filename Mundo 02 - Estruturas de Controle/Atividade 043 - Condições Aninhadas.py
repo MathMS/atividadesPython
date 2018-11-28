@@ -5,7 +5,7 @@ e mostre seu status, de acordo com a tabela abaixo:
 - 25 até 30: Sobrepeso
 - 30 até 40: Obesidade
 - Acima de 40: Obesidade mórbita"""
-1
+
 peso = float(input('Digite seu peso: '))
 tamanho = float(input('Digite sua altura em metros: '))
 imc = peso / (tamanho * tamanho)
