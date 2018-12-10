@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="881e4c87-bf7c-4f30-9cdf-260072390cdf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 008 - Operadores Aritméticos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 008 - Operadores Aritméticos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 010 - Operadores Aritméticos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 010 - Operadores Aritméticos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 011 - Operadores Aritméticos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 011 - Operadores Aritméticos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 012 - Operadores Aritméticos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 012 - Operadores Aritméticos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 013 - Operadores Aritméticos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 013 - Operadores Aritméticos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 014 - Operadores Aritméticos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 014 - Operadores Aritméticos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 015 - Operadores Aritméticos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 015 - Operadores Aritméticos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 017 - Módulos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 017 - Módulos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 018 - Módulos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 018 - Módulos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 022 - Manipulando Texto.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 022 - Manipulando Texto.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 023 - Manipulando Texto.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 023 - Manipulando Texto.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 026 - Manipulando Texto.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 026 - Manipulando Texto.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 028 - Condições.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 028 - Condições.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 034 - Condições.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 034 - Condições.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 03 - Estruturas Compostas/Atividade 072 - Tuplas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 03 - Estruturas Compostas/Atividade 073 - Tuplas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,12 +16,13 @@
     <session id="-100675383">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="25" />
+          <entry key="project.closed" value="26" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="4" />
           <entry key="project.open.time.4" value="1" />
@@ -41,100 +31,43 @@
           <entry key="project.open.time.7" value="4" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="25" />
+          <entry key="project.opened" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="2" />
-          <entry key="py" value="193" />
+          <entry key="py" value="199" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="2" />
-          <entry key="Python" value="193" />
+          <entry key="Python" value="199" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="23" />
           <entry key="dummy" value="49" />
-          <entry key="py" value="30118" />
+          <entry key="py" value="32906" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="49" />
-          <entry key="Python" value="30141" />
+          <entry key="Python" value="32929" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 026 - Manipulando Texto.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="79" selection-start-line="12" selection-start-column="79" selection-end-line="12" selection-end-column="79" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 027 - Manipulando Texto.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 028 - Condições.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Mundo 03 - Estruturas Compostas/Atividade 077 - Tuplas.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 029 - Condições.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 030 - Condições.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 031 - Condições.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 032 - Condições.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 033 - Condições.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 034 - Condições.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 035 - Condições.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -155,12 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Atividade 035 - Condições.py" />
-        <option value="$PROJECT_DIR$/Mundo 02 - Estruturas de Controle/Atividade 036 - Condições Aninhadas.py" />
-        <option value="$PROJECT_DIR$/Mundo 02 - Estruturas de Controle/Atividade 037 - Condições Aninhadas.py" />
-        <option value="$PROJECT_DIR$/Mundo 02 - Estruturas de Controle/Atividade 038 - Condições Aninhadas.py" />
-        <option value="$PROJECT_DIR$/Mundo 02 - Estruturas de Controle/Atividade 039 - Condições Aninhadas.py" />
-        <option value="$PROJECT_DIR$/Mundo 02 - Estruturas de Controle/Atividade 040 - Condições Aninhadas.py" />
         <option value="$PROJECT_DIR$/Mundo 02 - Estruturas de Controle/Atividade 041 - Condições Aninhadas.py" />
         <option value="$PROJECT_DIR$/Mundo 02 - Estruturas de Controle/Atividade 042 - Condições Aninhadas.py" />
         <option value="$PROJECT_DIR$/Mundo 02 - Estruturas de Controle/Atividade 044 - Condições Aninhadas.py" />
@@ -206,10 +133,16 @@
         <option value="$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 026 - Manipulando Texto.py" />
         <option value="$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 028 - Condições.py" />
         <option value="$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 034 - Condições.py" />
+        <option value="$PROJECT_DIR$/Mundo 03 - Estruturas Compostas/Atividade 072 - Tuplas.py" />
+        <option value="$PROJECT_DIR$/Mundo 03 - Estruturas Compostas/Atividade 073 - Tuplas.py" />
+        <option value="$PROJECT_DIR$/Mundo 03 - Estruturas Compostas/Atividade 074 - Tuplas.py" />
+        <option value="$PROJECT_DIR$/Mundo 03 - Estruturas Compostas/Atividade 075 - Tuplas.py" />
+        <option value="$PROJECT_DIR$/Mundo 03 - Estruturas Compostas/Atividade 076 - Tuplas.py" />
+        <option value="$PROJECT_DIR$/Mundo 03 - Estruturas Compostas/Atividade 077 - Tuplas.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -230,7 +163,7 @@
             <path>
               <item name="Atividades Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Atividades Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Mundo 02 - Estruturas de Controle" type="462c0819:PsiDirectoryNode" />
+              <item name="Mundo 03 - Estruturas Compostas" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -258,8 +191,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Atividade 071 - Break">
-    <configuration name="Atividade 067 - Break" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Atividade 077 - Tuplas">
+    <configuration name="Atividade 073 - Tuplas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Atividades Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -267,11 +200,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 02 - Estruturas de Controle" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 03 - Estruturas Compostas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 02 - Estruturas de Controle/Atividade 067 - Break.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 03 - Estruturas Compostas/Atividade 073 - Tuplas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -280,7 +213,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Atividade 068 - Break" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Atividade 074 - Tuplas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Atividades Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -288,11 +221,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 02 - Estruturas de Controle" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 03 - Estruturas Compostas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 02 - Estruturas de Controle/Atividade 068 - Break.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 03 - Estruturas Compostas/Atividade 074 - Tuplas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -301,7 +234,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Atividade 069 - Break" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Atividade 075 - Tuplas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Atividades Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -309,11 +242,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 02 - Estruturas de Controle" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 03 - Estruturas Compostas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 02 - Estruturas de Controle/Atividade 069 - Break.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 03 - Estruturas Compostas/Atividade 075 - Tuplas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -322,7 +255,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Atividade 070 - Break" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Atividade 076 - Tuplas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Atividades Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -330,11 +263,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 02 - Estruturas de Controle" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 03 - Estruturas Compostas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 02 - Estruturas de Controle/Atividade 070 - Break.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 03 - Estruturas Compostas/Atividade 076 - Tuplas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -343,7 +276,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Atividade 071 - Break" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Atividade 077 - Tuplas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Atividades Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -351,11 +284,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 02 - Estruturas de Controle" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 03 - Estruturas Compostas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 02 - Estruturas de Controle/Atividade 071 - Break.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 03 - Estruturas Compostas/Atividade 077 - Tuplas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -365,19 +298,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Atividade 067 - Break" />
-      <item itemvalue="Python.Atividade 068 - Break" />
-      <item itemvalue="Python.Atividade 069 - Break" />
-      <item itemvalue="Python.Atividade 070 - Break" />
-      <item itemvalue="Python.Atividade 071 - Break" />
+      <item itemvalue="Python.Atividade 073 - Tuplas" />
+      <item itemvalue="Python.Atividade 074 - Tuplas" />
+      <item itemvalue="Python.Atividade 075 - Tuplas" />
+      <item itemvalue="Python.Atividade 076 - Tuplas" />
+      <item itemvalue="Python.Atividade 077 - Tuplas" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Atividade 071 - Break" />
-        <item itemvalue="Python.Atividade 070 - Break" />
-        <item itemvalue="Python.Atividade 069 - Break" />
-        <item itemvalue="Python.Atividade 068 - Break" />
-        <item itemvalue="Python.Atividade 067 - Break" />
+        <item itemvalue="Python.Atividade 077 - Tuplas" />
+        <item itemvalue="Python.Atividade 076 - Tuplas" />
+        <item itemvalue="Python.Atividade 075 - Tuplas" />
+        <item itemvalue="Python.Atividade 074 - Tuplas" />
+        <item itemvalue="Python.Atividade 073 - Tuplas" />
       </list>
     </recent_temporary>
   </component>
@@ -395,9 +328,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12328767" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -420,48 +354,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Mundo 02 - Estruturas de Controle/Atividade 058 - Estrutura While.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="63" lean-forward="true" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mundo 02 - Estruturas de Controle/Atividade 059 - Estrutura While.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mundo 02 - Estruturas de Controle/Atividade 060 - Estrutura While.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mundo 02 - Estruturas de Controle/Atividade 051 - Estrutura For.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-end-line="6" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mundo 02 - Estruturas de Controle/Atividade 062 - Estrutura While.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mundo 02 - Estruturas de Controle/Atividade 061 - Estrutura While.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Mundo 02 - Estruturas de Controle/Atividade 064 - Estrutura While.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -522,13 +414,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mundo 02 - Estruturas de Controle/Atividade 071 - Break.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -686,7 +571,7 @@
     <entry file="file://$PROJECT_DIR$/Mundo 01 - Fundamentos/Atividade 034 - Condições.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -694,6 +579,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mundo 02 - Estruturas de Controle/Atividade 071 - Break.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mundo 03 - Estruturas Compostas/Atividade 072 - Tuplas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mundo 03 - Estruturas Compostas/Atividade 073 - Tuplas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="46" lean-forward="true" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mundo 03 - Estruturas Compostas/Atividade 074 - Tuplas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mundo 03 - Estruturas Compostas/Atividade 075 - Tuplas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mundo 03 - Estruturas Compostas/Atividade 076 - Tuplas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mundo 03 - Estruturas Compostas/Atividade 077 - Tuplas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
         </state>
       </provider>
     </entry>
