@@ -1,8 +1,8 @@
 """Crie um programa que leia duas notas de aluno e calcule sua média, mostrando uma
 mensagem no final, de acordo com a média atingida"""
-a = float(input('Digite a primeira nota do aluno: '))
-b = float(input('Digite a segunda nota do aluno: '))
-media = (a+b)/2
+nota1 = float(input('Digite a primeira nota do aluno: '))
+nota2 = float(input('Digite a segunda nota do aluno: '))
+media = (nota1+nota2)/2
 
 if media < 5:
     print('Sua média foi {:.2f}, portanto está \033[31mREPROVADO!\033[m'.format(media))

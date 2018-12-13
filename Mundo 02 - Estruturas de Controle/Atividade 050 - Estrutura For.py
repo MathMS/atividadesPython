@@ -3,7 +3,7 @@ forem pares. Se o valor digitado for ímpar, desconsidere-o"""
 soma = 0
 
 for c in range(0,6):
-    n = int(input('Digite o número: '))
-    if n%2 == 0:
-        soma = soma + n
+    numero = int(input('Digite o número: '))
+    if numero%2 == 0:
+        soma += numero
 print('\nA soma dos números pares deu: {}'.format(soma))

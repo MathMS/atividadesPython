@@ -8,7 +8,7 @@ from datetime import datetime
 ano = int(input('Digite o ano de seu nascimento: '))
 now = datetime.now()
 diferenca = now.year - ano
-if  18 == diferenca:
+if 18 == diferenca:
     print('Está na hora de se alistar garoto!')
 elif diferenca > 18:
     print('Você já devia ter se alistado há {} ano(s)!'.format(diferenca - 18))

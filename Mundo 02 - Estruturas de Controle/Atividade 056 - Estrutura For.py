@@ -3,10 +3,10 @@ No final do programa, mostre:
 - A média de idade do grupo
 - Qual é o nome do homem mais velho
 - Quantas mulheres tem menos de 20 anos"""
-si = 0
+soma_total = 0
 maioridade = 0
-nomevelho = ''
-mulher20 = 0
+nome_velho = ''
+mulher_vinte = 0
 for c in range(1, 5):
     nome = str(input('Digite o {}° nome: '.format(c))).strip()
     idade = int(input('Digite a {}° idade: '.format(c)))
@@ -15,12 +15,12 @@ for c in range(1, 5):
 
     if c == 1 and sexo in 'Mm':
         maioridade = idade
-        nomevelho = nome
+        nome_velho = nome
     if sexo in 'Mm' and idade > maioridade:
         maioridade = idade
-        nomevelho = nome
+        nome_velho = nome
     if sexo in 'Ff' and idade > 20:
-        mulher20 = mulher20+1
-print('\nA idade média do grupo é: {}'.format(si/4))
-print('O nome do homem mais velho é: {}'.format(nomevelho))
-print('Existe(m) {} mulher(es) acima de 20 anos!'.format(mulher20))
+        mulher_vinte += 1
+print('\nA idade média do grupo é: {}'.format(soma_total / 4))
+print('O nome do homem mais velho é: {}'.format(nome_velho))
+print('Existe(m) {} mulher(es) acima de 20 anos!'.format(mulher_vinte))

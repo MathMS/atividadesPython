@@ -13,11 +13,11 @@ diferenca = now.year - ano
 
 if diferenca <= 9:
     print('\nAtleta Mirim!')
-elif diferenca > 9 and diferenca <=14:
+elif 9 < diferenca <= 14:
     print('\nAtleta Infantil!')
-elif diferenca > 14 and diferenca <= 19:
+elif 14 < diferenca <= 19:
     print('\nAtleta Júnior!')
-elif diferenca > 19 and diferenca <= 20:
+elif 19 < diferenca <= 20:
     print('\nAtleta Sênior!')
 elif diferenca > 20:
     print('\nAtleta Master!')
